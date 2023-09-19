@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_DB_USER": "Uzairkhan",
+    "MONGO_DB_PASSWORD": "Uzairkhanadmin000",
+    "MONGO_DATABASE_NAME": "shop"
+  }
+}
