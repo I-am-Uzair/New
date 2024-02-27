@@ -40,7 +40,6 @@ Welcome to our E-Commerce Store project! This web application allows users to si
 ## Installation
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/UzairKhan313/SsllYour's.git
 ```
